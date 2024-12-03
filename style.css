@@ -1,0 +1,23 @@
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.mybutton {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer; 
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+body {
+  background-image: url(img/z6094117269497_912435b47888cfe4681dc5516910eb43.jpg);
+  background-position: center;
+}
